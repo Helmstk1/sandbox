@@ -10,8 +10,5 @@ this is a readme.
 ___
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2011.02.46%20AM.png?raw=true" width="500">
 <img src="https://github.com/hheisig51/BasicCAD/blob/master/Images/Screen%20Shot%202020-10-08%20at%2010.41.30%20AM.png?raw=true" width="500">
-Image Credit goes to [Henry](https://github.com/hheisig51/BasicCAD)
 
-
-
-
+Image Credit goes to [Henry](https://github.com/hheisig51/BasicCAD/)
