@@ -1,5 +1,5 @@
 # sandbox
-this is a readme.
+This readme was used to instruct students in begining their readmes, and a small collection of simple tests.   By no means does this represent the professional work done elsewhere.
 
 ![add a pic here](https://github.com/Helmstk1/sandbox/blob/master/images/crying-obamma-beautiful-meme.png)
 
